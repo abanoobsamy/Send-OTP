@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "166060626530",
+    "project_id": "otp-code-20d90",
+    "storage_bucket": "otp-code-20d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166060626530:android:bb96a080c72427d4ef373b",
+        "android_client_info": {
+          "package_name": "com.abanoob_samy.otpcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166060626530-slc1ga2n1ci1fan5qejouracekcqt6dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeqsQ7LLypWJA2zHTjWino7AJYvhThSqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166060626530-slc1ga2n1ci1fan5qejouracekcqt6dp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
