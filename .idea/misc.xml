@@ -5,10 +5,11 @@
       <map>
         <entry key="..\:/Users/Abanoob/AndroidStudioProjects/OTPCode/app/src/main/res/drawable/background_button.xml" value="0.1715" />
         <entry key="..\:/Users/Abanoob/AndroidStudioProjects/OTPCode/app/src/main/res/drawable/progress_bg.xml" value="0.102" />
-        <entry key="..\:/Users/Abanoob/AndroidStudioProjects/OTPCode/app/src/main/res/layout/activity_home.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Abanoob/AndroidStudioProjects/OTPCode/app/src/main/res/layout/activity_home.xml" value="0.22" />
         <entry key="..\:/Users/Abanoob/AndroidStudioProjects/OTPCode/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
         <entry key="..\:/Users/Abanoob/AndroidStudioProjects/OTPCode/app/src/main/res/layout/activity_send_otp.xml" value="0.22" />
         <entry key="..\:/Users/Abanoob/AndroidStudioProjects/OTPCode/app/src/main/res/layout/activity_verify_otp.xml" value="0.25" />
+        <entry key="..\:/Users/Abanoob/AndroidStudioProjects/OTPCode/app/src/main/res/layout/item_checkbox.xml" value="0.33" />
       </map>
     </option>
   </component>
